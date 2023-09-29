@@ -1,0 +1,61 @@
+@media (max-width: 769px){
+    main::after{
+        background: linear-gradient(0deg, black 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
+        width: 100%;
+    }
+
+    div.personagem img{
+        height: 85%;
+    }
+
+    div.conteudo{
+        justify-content: flex-end;
+        left: 0px;
+        top: -20%;
+        max-width: 100%;
+        padding: 30px;
+    }
+
+    div.conteudo .nome-personagem{
+        font-size: 36px;
+    }
+
+    div.conteudo p{
+        max-width: 420px;
+    }
+
+    nav .botoes{
+        flex-direction: row;
+        align-items: flex-end;
+        width: 100%;
+        padding: 30px;
+    }
+
+    nav button img{
+        max-width: 80px;
+    }
+}
+
+@media (max-width: 400px){
+    div.personagem img{
+        height: auto;
+    }
+
+    div.conteudo .logo{
+        width: 150px;
+        height: 75px;
+    }
+
+    div.conteudo{
+        top: -30%;
+    }
+
+    div.conteudo .nome-personagem{
+        font-size: 24px;
+    }
+
+    nav .botoes{
+        top: -20%;
+        padding: 20px;
+    }
+}
