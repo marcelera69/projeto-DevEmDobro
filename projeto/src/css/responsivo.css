@@ -70,3 +70,21 @@
         width: 60px;
     }
 }
+
+@media (max-height: 375px){
+    nav .botoes{
+        position: fixed;
+        top: 0;
+        right: 0;
+        background-color: rgba(0, 0, 0, 0.4);
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: top;
+        align-items: center;
+    
+        width: 180px;
+        min-height: 100%;
+        gap: 15px;
+    }
+}
