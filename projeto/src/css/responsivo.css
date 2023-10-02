@@ -47,15 +47,12 @@
     }
 
     div.conteudo{
-        top: -50%;
+        top: -40%;
+        margin-bottom: 10px;
     }
 
     div.conteudo .nome-personagem{
         font-size: 24px;
-    }
-
-    div.conteudo img{
-        left: 10px;
     }
 
     div.conteudo p{
