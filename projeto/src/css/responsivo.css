@@ -54,8 +54,18 @@
         font-size: 24px;
     }
 
+    div.conteudo p{
+        max-width: 270px;
+    }
+
     nav .botoes{
-        top: -20%;
+        top: -10%;
         padding: 20px;
+        gap: 15px;
+    }
+
+    nav .botao img{
+        height: 50px;
+        width: 50px;
     }
 }
