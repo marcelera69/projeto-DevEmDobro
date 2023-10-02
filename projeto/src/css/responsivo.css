@@ -36,7 +36,7 @@
     }
 }
 
-@media (max-width: 400px){
+@media (max-width: 450px){
     div.personagem img{
         height: 100vh;
     }
@@ -47,7 +47,7 @@
     }
 
     div.conteudo{
-        top: -30%;
+        top: -40%;
     }
 
     div.conteudo .nome-personagem{
@@ -59,7 +59,7 @@
     }
 
     nav .botoes{
-        top: -10%;
+        top: -5%;
         padding: 20px;
         gap: 15px;
     }
