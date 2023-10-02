@@ -8,7 +8,7 @@
 
 Projeto construído do aulao da Dev Em Dobro.
 
-[🔗 Clique aqui para acessar](https://marcelera69.github.io/projeto-DevEmDobro/index.html)
+[🔗 Clique aqui para acessar](https://marcelera69.github.io/projeto-DevEmDobro/projeto/index.html)
 
 
 ## 🛠 Tecnologias
