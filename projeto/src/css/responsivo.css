@@ -47,11 +47,15 @@
     }
 
     div.conteudo{
-        top: -40%;
+        top: -50%;
     }
 
     div.conteudo .nome-personagem{
         font-size: 24px;
+    }
+
+    div.conteudo img{
+        left: 10px;
     }
 
     div.conteudo p{
@@ -59,13 +63,13 @@
     }
 
     nav .botoes{
-        top: -5%;
+        top: -3%;
         padding: 20px;
         gap: 15px;
     }
 
     nav .botao img{
-        height: 50px;
-        width: 50px;
+        height: 60px;
+        width: 60px;
     }
 }
